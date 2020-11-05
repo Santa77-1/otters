@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9497a422-7855-4e01-b31b-283af15708e9" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../music-manage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/ListSongController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/SingerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/SmallFishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/SongController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/SongListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/ConsumerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/ListSongMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/SingerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/SmallFishMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/SongListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/dao/SongMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/ListSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Singer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/SmallFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/SongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/domain/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/ConsumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/ListSongService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/SingerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/SmallFishService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/SongListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/SongService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/ConsumerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/ListSongServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/SingerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/SmallFishServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/SongListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/SongServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CollectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CollectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ConsumerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ListSongMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SingerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SmallFishMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/HwMusicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/HwMusicApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jAPsShSsMbPE9Pz07j9nnVsXNz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HwMusicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="otters-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.HwMusicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HwMusicApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.37722048" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9497a422-7855-4e01-b31b-283af15708e9" name="默认更改列表" comment="" />
+      <created>1603244129609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603244129609</updated>
+      <workItem from="1603244132398" duration="2405000" />
+      <workItem from="1603257321777" duration="2450000" />
+      <workItem from="1603325366964" duration="640000" />
+      <workItem from="1603345739589" duration="448000" />
+      <workItem from="1603428562023" duration="629000" />
+      <workItem from="1603593397485" duration="1438000" />
+      <workItem from="1603605121347" duration="652000" />
+      <workItem from="1603617161427" duration="244000" />
+      <workItem from="1603622831338" duration="633000" />
+      <workItem from="1603627096466" duration="783000" />
+      <workItem from="1603668698449" duration="712000" />
+      <workItem from="1603681347080" duration="660000" />
+      <workItem from="1603694267262" duration="1225000" />
+      <workItem from="1604207713081" duration="2000000" />
+      <workItem from="1604294948821" duration="592000" />
+      <workItem from="1604304046448" duration="1691000" />
+      <workItem from="1604306990982" duration="15000" />
+      <workItem from="1604322524965" duration="285000" />
+      <workItem from="1604360588670" duration="576000" />
+      <workItem from="1604364355089" duration="649000" />
+      <workItem from="1604367510569" duration="47000" />
+      <workItem from="1604372558306" duration="1505000" />
+      <workItem from="1604398842941" duration="174000" />
+      <workItem from="1604414893375" duration="916000" />
+      <workItem from="1604446566579" duration="9881000" />
+      <workItem from="1604465248250" duration="1768000" />
+      <workItem from="1604467055446" duration="1641000" />
+      <workItem from="1604469681951" duration="1503000" />
+      <workItem from="1604473010184" duration="2892000" />
+      <workItem from="1604480128205" duration="4576000" />
+      <workItem from="1604491800989" duration="2747000" />
+      <workItem from="1604494612640" duration="2142000" />
+      <workItem from="1604532641774" duration="2985000" />
+      <workItem from="1604537365068" duration="112000" />
+      <workItem from="1604537880066" duration="160000" />
+      <workItem from="1604538216864" duration="754000" />
+      <workItem from="1604539220165" duration="16000" />
+      <workItem from="1604539308506" duration="3942000" />
+      <workItem from="1604550747873" duration="239000" />
+      <workItem from="1604551771351" duration="6218000" />
+      <workItem from="1604572227143" duration="1055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Notifications" timestamp="1604473026059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1604473026059" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604480223278">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1604480223278" />
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser" timestamp="1604481680197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1604481680197" />
+    <state x="86" y="119" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604473132773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="86" y="119" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1604473132773" />
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604473089909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1604473089909" />
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1604473086334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1604473086334" />
+    <state x="456" y="207" width="374" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604469897827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="207" width="374" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1604469897827" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604470066736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1604470066736" />
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604473758654">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604473758654" />
+    <state x="397" y="198" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604467731731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="198" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1604467731731" />
+    <state width="582" height="70" key="GridCell.Tab.0.bottom" timestamp="1604560831656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604560831656" />
+    <state width="582" height="70" key="GridCell.Tab.0.center" timestamp="1604560831655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604560831655" />
+    <state width="582" height="70" key="GridCell.Tab.0.left" timestamp="1604560831655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604560831655" />
+    <state width="582" height="70" key="GridCell.Tab.0.right" timestamp="1604560831655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604560831655" />
+    <state width="582" height="70" key="GridCell.Tab.1.bottom" timestamp="1604560831657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604560831657" />
+    <state width="582" height="70" key="GridCell.Tab.1.center" timestamp="1604560831656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604560831656" />
+    <state width="582" height="70" key="GridCell.Tab.1.left" timestamp="1604560831656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604560831656" />
+    <state width="582" height="70" key="GridCell.Tab.1.right" timestamp="1604560831657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="582" height="70" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604560831657" />
+    <state width="242" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1604450876333">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="242" height="198" key="RunAnythingAction_Filter_Popup/0.0.1280.680@0.0.1280.680" timestamp="1604450876333" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1604572346929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604572346929" />
+    <state x="-53" y="0" width="731" height="687" maximized="true" key="dock-window-1" timestamp="1604541878753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-53" y="0" width="731" height="687" maximized="true" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1604541878753" />
+    <state x="-7" y="0" width="673" height="687" key="dock-window-2" timestamp="1604453913652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-7" y="0" width="673" height="687" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1604453913652" />
+    <state x="-3" y="6" width="669" height="608" key="dock-window-3" timestamp="1604465268782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-3" y="6" width="669" height="608" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1604465268782" />
+    <state x="28" y="48" key="new project wizard" timestamp="1603260023036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="48" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603260023036" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1604556629615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1604556629615" />
+    <state x="580" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603610326168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="580" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603610326168" />
+  </component>
+</project>
